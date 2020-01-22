@@ -1,0 +1,33 @@
+body{
+    background-color: lightgray;
+}
+
+
+.card{
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.card-title{
+    color: lightseagreen;
+    font-size: 2em;
+}
+
+#p1{
+    float: left;
+    margin-bottom: 10px;
+}
+#p2{
+    float: right;
+    margin-bottom: 10px;
+}
+#p3{
+    float: left;
+    margin-bottom: 10px;
+}
+#p4{
+    float: right;
+    margin-bottom: 10px;
+}
+#p5{
+    float: left;
+}

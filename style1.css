@@ -1,0 +1,25 @@
+body{
+    background-color: lightgray;
+}
+
+
+.card{
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.card-title{
+    color: lightseagreen;
+    font-size: 2em;
+}
+#picture{
+    float: left;
+    margin-right: 10px;
+}
+#main body{
+    float: right;
+}
+@media screen and (max-width: 640px) {
+    body{
+        position: relative;
+    }
+}
